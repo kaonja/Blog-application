@@ -1,0 +1,19 @@
+[{
+    "title":"Tanzania is beautiful",
+    "slug":"Come and visit",
+    "published": true,
+    "text":"next step to naurish the world with the beaty "
+},
+{
+    "title":"Ngorongoro the Cretor",
+    "slug" :"Come and see",
+    "published" : false,
+    "text": "One of the largest parks in Tanzania , come and see its beauty."
+},
+{
+    "title":"Is sun also a star ?",
+    "slug":"See the facts and not arguments here.",
+    "published": true,
+    "text" : "Old stories says, the next big thing is being a star, which even sun is one of em."
+}
+]

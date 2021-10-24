@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/codeexpert/Desktop/BlogPost'
+make: Leaving directory '/home/codeexpert/Desktop/BlogPost'
+ 
+Makefile:6: *** missing separator.  Stop.
+ 
